@@ -1,17 +1,17 @@
-bri111.github.io-ICSpark-Mentor-Project
+# bri111.github.io-ICSpark-Mentor-Project
 
 
 ICSpark Mentor Project: https://bri111.github.io/bri111/
 
-# **Objective**
+# Objective
 Use CSS Flexbox (Responsive layout structure, parent/child nodes)
 
-# **Prerequisites**#
+# Prerequisites
 To complete this project: students should have the following:
 - Basic understanding of HTML structures and attributes
 - Basic understanding of CSS (Selectors, properties)
 
-#**Concepts**
+# Concepts
 | HTML | Description |
 | --- | --- |
 | img | image tag |
@@ -31,4 +31,28 @@ To complete this project: students should have the following:
 | CSS | Description |
 | --- | --- |
 | background-color | Specifies the background color of an element |
-| git | words |
+| text-align | Specifies the horizontal alignment of text |
+| font-family | Specifies the font family for text |
+| letter-spacing | Increases or decreases the space between characters in a text |
+| font-size | Specifies the font size of text |
+| justify-content | Specifies the alignment between the items inside a flexible container when the items do not use all available space |
+| display | Specifies how a certain HTML element should be displayed |
+| margin-left | Sets the left margin of an element |
+| margin-right | Sets the right margin of an element |
+| float | Specifies whether an element should float to the left, right, or not at all |
+| padding | A shorthand property for all the padding-* properties |
+| margin | Sets all the margin properties in one declaration |
+| align-items | Specifies the alignment for items inside a flexible container |
+
+# Your Challenge
+Part I
+To Complete Part I, complete these requirements:
+1. Set up project
+2. Create HTML File, CSS File (If not already created)
+
+Part II
+1. 
+
+# Citation
+Definitions found: https://www.w3schools.com/cssref/index.php
+Cookie Recipe found: https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/
