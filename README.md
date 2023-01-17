@@ -49,8 +49,10 @@ Part I
 <br>To Complete Part I, complete these requirements:
 1. Set up project
 2. Create HTML File, CSS File (If not already created)
+3. Find a recipe 
 
 <br>Part II
+<br>
 1. 
 
 # Citation
