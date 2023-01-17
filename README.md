@@ -45,12 +45,12 @@ To complete this project: students should have the following:
 | align-items | Specifies the alignment for items inside a flexible container |
 
 # Your Challenge
-Part I
-To Complete Part I, complete these requirements:
+Part I 
+<br>To Complete Part I, complete these requirements:
 1. Set up project
 2. Create HTML File, CSS File (If not already created)
 
-Part II
+<br>Part II
 1. 
 
 # Citation
