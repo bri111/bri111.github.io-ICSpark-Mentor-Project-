@@ -1,18 +1,18 @@
-# bri111.github.io-ICSpark-Mentor-Project
+bri111.github.io-ICSpark-Mentor-Project
 
 
 
 ICSpark Mentor Project: https://bri111.github.io/bri111/
 
-#Objective
+#**Objective**
 Use CSS Flexbox (Responsive layout structure, parent/child nodes)
 
-#Prerequisites
+#**Prerequisites**#
 To complete this project: students should have the following:
 - Basic understanding of HTML structures and attributes
 - Basic understanding of CSS (Selectors, properties)
 
-#Concepts
+#**Concepts**
 | HTML | Description |
 | --- | --- |
 | img | image tag |
