@@ -6,6 +6,9 @@ ICSpark Mentor Project: https://bri111.github.io/bri111/
 # Objective
 Use CSS Flexbox (Responsive layout structure, parent/child nodes)
 
+# Difficulty
+Intermediate
+
 # Prerequisites
 To complete this project: students should have the following:
 - Basic understanding of HTML structures and attributes
@@ -69,22 +72,22 @@ Use the CSS properties above to design your website<br>
 2. heading 1
  - text-align: center; //center your title
  - font-family: 'Bebas Neue', cursive; // or font of your choice
- - letter-spacing: 1.2px;
- - font-size: 50px;
+ - letter-spacing: #px;
+ - font-size: #px;
 3. .about // Selects all elements set within its class/section attribute
  - text-align: center;
  - display: flex;
  - justify-content: center;
 4. padding // padding is used for space between content and borders
- - padding-left: 56px;
- - padding-right: 56px;
- - padding-top: 20px;
- - padding-bottom: 20px;
+ - padding-left: #px;
+ - padding-right: #px;
+ - padding-top: #px;
+ - padding-bottom: #px;
  - font-family: 'Open Sans', sans-serif;
 5. .column // adds columns to your images
  - float: left;
- - width: 22.33%;
- - paddingL 40px;
+ - width: #%;
+ - paddingL #%;
 6. .row::after // clearfix (clear floats
  - content: "";
  - display: table;
