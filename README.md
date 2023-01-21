@@ -61,30 +61,31 @@ Part I
 
 <br>Part III
 <br>
-1.Use the CSS properties above to design your website
-* Start with your body by using body {}
+Use the CSS properties above to design your website<br>
+
+1. Start with your body by using body {}
  - background-color: #color of your choice;
  - color: #color of your text;
-* heading 1
+2. heading 1
  - text-align: center; //center your title
  - font-family: 'Bebas Neue', cursive; // or font of your choice
  - letter-spacing: 1.2px;
  - font-size: 50px;
-* .about // Selects all elements set within its class/section attribute
+3. .about // Selects all elements set within its class/section attribute
  - text-align: center;
  - display: flex;
  - justify-content: center;
-* padding // padding is used for space between content and borders
+4. padding // padding is used for space between content and borders
  - padding-left: 56px;
  - padding-right: 56px;
  - padding-top: 20px;
  - padding-bottom: 20px;
  - font-family: 'Open Sans', sans-serif;
-* .column // adds columns to your images
+5. .column // adds columns to your images
  - float: left;
  - width: 22.33%;
  - paddingL 40px;
-* .row::after // clearfix (clear floats
+6. .row::after // clearfix (clear floats
  - content: "";
  - display: table;
   
