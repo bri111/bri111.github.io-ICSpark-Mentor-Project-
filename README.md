@@ -56,41 +56,41 @@ Part I
 
 <br>Part II
 1. Create HTML elements below
-* headers
-* sections labelling them by classes (example: <section class="about">
-* create an about this recipe section
-* (ol) ordered and (ul) unordered lists for ingrediates and instructions
-* add images using img tag
+ * headers
+ * sections labelling them by classes (example: <section class="about">
+ * create an about this recipe section
+ * (ol) ordered and (ul) unordered lists for ingrediates and instructions
+ * add images using img tag
 
 <br>Part III
 <br>
 Use the CSS properties above to design your website<br>
 
 1. Start with your body by using body {}
- - background-color: #color of your choice;
- - color: #color of your text;
+  - background-color: #color of your choice;
+  - color: #color of your text;
 2. heading 1
- - text-align: center; //center your title
- - font-family: 'Bebas Neue', cursive; // or font of your choice
- - letter-spacing: #px;
+  - text-align: center; //center your title
+  - font-family: 'Bebas Neue', cursive; // or font of your choice
+  - letter-spacing: #px;
  - font-size: #px;
 3. .about // Selects all elements set within its class/section attribute
- - text-align: center;
- - display: flex;
- - justify-content: center;
+  - text-align: center;
+  - display: flex;
+  - justify-content: center;
 4. padding // padding is used for space between content and borders
- - padding-left: #px;
- - padding-right: #px;
- - padding-top: #px;
- - padding-bottom: #px;
- - font-family: 'Open Sans', sans-serif;
+  - padding-left: #px;
+  - padding-right: #px;
+  - padding-top: #px;
+  - padding-bottom: #px;
+  - font-family: 'Open Sans', sans-serif;
 5. .column // adds columns to your images
- - float: left;
- - width: #%;
- - paddingL #%;
+  - float: left;
+  - width: #%;
+  - paddingL #%;
 6. .row::after // clearfix (clear floats
- - content: "";
- - display: table;
+  - content: "";
+  - display: table;
   
 
 # Citation
