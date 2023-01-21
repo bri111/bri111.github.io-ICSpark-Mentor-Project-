@@ -49,12 +49,14 @@ Part I
 <br>To Complete Part I, complete these requirements:
 1. Set up project
 2. Create HTML File, CSS File (If not already created)
-3. Find a recipe 
+3. Find a **recipe** 
+
+Sec
 
 <br>Part II
 <br>
-1. 
+1.Use the CSS properties above to 
 
 # Citation
 Definitions found: https://www.w3schools.com/cssref/index.php
-Cookie Recipe found: https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/
+<br>Cookie Recipe found: https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/
