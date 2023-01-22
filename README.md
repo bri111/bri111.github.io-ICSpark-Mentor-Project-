@@ -1,7 +1,7 @@
 # bri111.github.io-ICSpark-Mentor-Project
 
 
-ICSpark Mentor Project: https://bri111.github.io/bri111/
+ICSpark Mentor Project: https://bri111.github.io/red-velvet-cookies/
 
 # Objective
 Use CSS Flexbox (Responsive layout structure, parent/child nodes)
@@ -67,7 +67,7 @@ Part I
 Use the CSS properties above to design your website<br>
 
 1. Start with your body by using body {}
-  - background-color: #color of your choice;
+  -- background-color: #color of your choice;
   - color: #color of your text;
 2. heading 1
   - text-align: center; //center your title
