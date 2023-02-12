@@ -148,4 +148,7 @@ Use the CSS properties above to design your website in the CSS file
 # Citation
 Definitions found: https://www.w3schools.com/cssref/index.php
 <br>Cookie Recipe found: https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/
+  
+# Replit Website 
+* Fork this website (has images 
 <br>https://replit.com/join/bvbaaofyyz-blarbbarb
