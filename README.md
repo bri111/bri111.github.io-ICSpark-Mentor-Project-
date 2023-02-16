@@ -1,18 +1,18 @@
-## Red Velvet Cookies Recipe
+# Red Velvet Cookies Recipe
 
 
-# Objective
+## Objective
 Use CSS Flexbox to a website about Red Velvet Cookies Recipe (Responsive layout structure, parent/child nodes). 
 
-# Difficulty
+## Difficulty
 Intermediate
 
-# Prerequisites
+## Prerequisites
 To complete this project: students should have the following:
 - Basic understanding of HTML structures and attributes
 - Basic understanding of CSS (Selectors, properties)
 
-# Concepts
+## Concepts
 | HTML | Description |
 | --- | --- |
 | img | image tag |
@@ -49,7 +49,7 @@ To complete this project: students should have the following:
 | margin | Sets all the margin properties in one declaration |
 | align-items | Specifies the alignment for items inside a flexible container |
 
-# Your Challenge
+## Your Challenge
 Part I 
 <br>To Complete Part I, complete these requirements:
 
@@ -140,12 +140,10 @@ Use the CSS properties above to design your website in the CSS file
   - ```justify-content:``` center;
   
 
-# Citation
+## Citation
 Definitions found: https://www.w3schools.com/cssref/index.php
 <br>Cookie Recipe found: https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/
-  
-# Replit Website 
-* Fork this website (has images 
-<br>https://replit.com/join/bvbaaofyyz-blarbbarb
-# ICSpark Mentor Project: https://bri111.github.io/red-velvet-cookies/
+ 
+
+## Project Results:
 
