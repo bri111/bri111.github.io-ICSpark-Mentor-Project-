@@ -146,7 +146,7 @@ Definitions found: https://www.w3schools.com/cssref/index.php
  
 
 ## Project Results:
-<img class="ui image" src="../img/redvelvet1.png">
-<img class="ui image" src="../img/redvelvet2.png">
-<img class="ui image" src="../img/redvelvet3.png">
+<img class="ui image" src="img/redvelvet1.png">
+<img class="ui image" src="img/redvelvet2.png">
+<img class="ui image" src="img/redvelvet3.png">
 
