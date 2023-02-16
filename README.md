@@ -1,10 +1,8 @@
-# bri111.github.io-ICSpark-Mentor-Project
+## Red Velvet Cookies Recipe
 
-
-ICSpark Mentor Project: https://bri111.github.io/red-velvet-cookies/
 
 # Objective
-Use CSS Flexbox (Responsive layout structure, parent/child nodes)
+Use CSS Flexbox to a website about Red Velvet Cookies Recipe (Responsive layout structure, parent/child nodes). 
 
 # Difficulty
 Intermediate
@@ -56,31 +54,28 @@ Part I
 <br>To Complete Part I, complete these requirements:
 
 
-<br>Part II
-1. Create HTML elements below
- * headers
- * sections labelling them by classes (example: <section class="about">
- * create an about this recipe section
- * (ol) ordered and (ul) unordered lists for ingrediates and instructions
- * add images using img tag
+<br>Part II: Complete HTML
 
-2. Headings: 
+1. Headings: 
 This part should appear like this in your HTML file:
 
 ```
-<head> /** Within the <head> add these two */
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital,wdth,wght@0,83.2,524;0,100,300;0,100,400;0,100,700;0,100,800;1,100,800&family=Spartan&display=swap" rel="stylesheet">
-
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,83.2,524;0,100,300;0,100,400;0,100,700;0,100,800;1,100,800&family=Spartan&display=swap" rel="stylesheet"></head>
-<h1>Insert Title</h1>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,83.2,524;0,100,300;0,100,400;0,100,700;0,100,800;1,100,800&family=Spartan&display=swap" rel="stylesheet">
+</head>
 
 ```
 
-3. Use this recipe:
+2. Use this recipe to fill out the content of your website:
 * https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/
 * This is your recipe for the week or you can find a recipe online of your choosing
 
-4. Use these tags in your HTML file
+3. Create the following inside the ```<body>``` tag to describe the recipe
 Containers or sectors
 * ```section``` with a ```class``` of "about"
   * ```p``` about the reason for your recipe
@@ -93,7 +88,7 @@ Containers or sectors
   * ```h2``` title of the section for steps
   * ```ol``` and ```li``` start creating the list of steps
 
-5. Create columns for 3 images
+4. Within this [first, second, third] section, create and img tag and set the src attribute to [link] and alt attribute to [description]
 
 * ```section``` with a ```class``` of "row"
 * Within this section there is another section 
@@ -104,38 +99,38 @@ Containers or sectors
   * ```section``` with a ```class``` of "column"
     * ```<img src="https://sallysbakingaddiction.com/wp-content/uploads/2013/12/red-velvet-chocolate-chip-cookies-4.jpg" alt="red velvet chocolate chip cookies 4">``` 
 
-<br>Part III
+<br>Part III: Complete CSS
 <br>
 Use the CSS properties above to design your website in the CSS file
 </br>
 * Note: the # is where you input a digit/number
 
-1. Start with your body by using body {}
-  - ```background-color:``` #color of your choice;
-  - ```color:``` #color of your text;
-2. heading 1
+1. Start with your body be selecting the body tag followed by {}
+  - ```background-color:``` //Set the background-color to #75201a or a color of your choice;
+  - ```color:``` //Set the font-color to a color of your choice;
+2. Set [heading 1] to [value] or a value of your choice 
   - ```text-align:``` center; //center your title
   - ```font-family:``` 'Bebas Neue', cursive; // or font of your choice
   - ```letter-spacing:``` #px;
  - ```font-size:``` #px;
-3. .about // Selects all elements set within its class/section attribute
+3. Set [.about 1] to [value] or a value of your choice  // Selects all elements set within its class/section attribute
   - ```text-align:``` center;
   - ```display:``` flex;
   - ```justify-content:``` center;
-4. padding // padding is used for space between content and borders
+4. Set [padding] to [value] or a value of your choice  //padding is used for space between content and borders
   - ```padding-left:``` #px;
   - ```padding-right:``` #px;
   - ```padding-top:``` #px;
   - ```padding-bottom:``` #px;
   - ```font-family:``` 'Open Sans', sans-serif;
-5. .column // adds columns to your images
+5. Set [.column] to [value] or a value of your choice  // adds columns to your images 
   - ```float:``` left;
   - ```width:``` #%;
   - ```padding:``` #%;
-6. .row::after // clearfix (clear floats)
+6. Set [.row::after] to [value] or a value of your choice // clearfix (clear floats)
   - ```content:``` "";
   - ```display:``` table;
-7. .container // this holds the images given to us
+7. Set [.container] to [value] or a value of your choice // this holds the images given to us
   - ```font-family:``` 'Bebas Neue', cursive;
   - ```max-width:``` #px;
   - ```margin:``` auto;
@@ -152,3 +147,5 @@ Definitions found: https://www.w3schools.com/cssref/index.php
 # Replit Website 
 * Fork this website (has images 
 <br>https://replit.com/join/bvbaaofyyz-blarbbarb
+# ICSpark Mentor Project: https://bri111.github.io/red-velvet-cookies/
+
