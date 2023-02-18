@@ -72,6 +72,8 @@ This part should appear like this in your HTML file:
 2. Use this recipe to fill out the content of your website:
 * https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/
 * This is your recipe for the week or you can find a recipe online of your choosing
+* Create a ```<h1>``` for your title
+* Create a ```<p class="author">``` for your name
 
 3. Add an image into your webpage using the ```img``` tag
 * ``` <img src="https://drive.google.com/uc?export=view&id=13qYykjvPWZurnw2W1tMGjo9B-HbVT2G-" alt="girl on top of red velvet cookies" width ="200px">```
