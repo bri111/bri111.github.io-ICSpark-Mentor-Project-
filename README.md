@@ -50,11 +50,9 @@ To complete this project: students should have the following:
 | align-items | Specifies the alignment for items inside a flexible container |
 
 ## Your Challenge
-Part I 
-<br>To Complete Part I, complete these requirements:
 
 
-<br>Part II: Complete HTML
+<br>Part I: Complete HTML
 
 1. Headings: 
 This part should appear like this in your HTML file:
@@ -102,7 +100,7 @@ Containers or sectors
   * ```section``` with a ```class``` of "column"
     * ```<img src="https://sallysbakingaddiction.com/wp-content/uploads/2013/12/red-velvet-chocolate-chip-cookies-4.jpg" alt="red velvet chocolate chip cookies 4">``` 
 
-<br>Part III: Complete CSS
+<br>Part II: Complete CSS
 <br>
 Use the CSS properties above to design your website in the CSS file
 </br>
