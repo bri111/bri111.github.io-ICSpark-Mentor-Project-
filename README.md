@@ -75,7 +75,10 @@ This part should appear like this in your HTML file:
 * https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/
 * This is your recipe for the week or you can find a recipe online of your choosing
 
-3. Create the following inside the ```<body>``` tag to describe the recipe
+3. Add an image into your webpage using the ```img``` tag
+* ``` <img src="https://drive.google.com/uc?export=view&id=13qYykjvPWZurnw2W1tMGjo9B-HbVT2G-" alt="girl on top of red velvet cookies" width ="200px">```
+
+4. Create the following inside the ```<body>``` tag to describe the recipe
 Containers or sectors
 * ```section``` with a ```class``` of "about"
   * ```p``` about the reason for your recipe
@@ -88,7 +91,7 @@ Containers or sectors
   * ```h2``` title of the section for steps
   * ```ol``` and ```li``` start creating the list of steps
 
-4. Within this [first, second, third] section, create and img tag and set the src attribute to [link] and alt attribute to [description]
+5. Within this [first, second, third] section, create and img tag and set the src attribute to [link] and alt attribute to [description]
 
 * ```section``` with a ```class``` of "row"
 * Within this section there is another section 
