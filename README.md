@@ -2,10 +2,10 @@
 
 
 ## Objective
-Use CSS Flexbox to a website about Red Velvet Cookies Recipe (Responsive layout structure, parent/child nodes). 
+Use CSS Flexbox for a website about Red Velvet Cookies Recipe (Responsive layout structure, parent/child nodes). Create a red velvet cookie recipe website. 
 
 ## Difficulty
-Intermediate
+Easy/Intermediate
 
 ## Prerequisites
 To complete this project: students should have the following:
@@ -49,12 +49,11 @@ To complete this project: students should have the following:
 | margin | Sets all the margin properties in one declaration |
 | align-items | Specifies the alignment for items inside a flexible container |
 
-## Your Challenge
 
+## Part I: Complete HTML
 
-#Part I: Complete HTML
-
-1. Headings: Copy and Paste the ```<head></head>``` with the code below. 
+### Head
+1. Replace the original ```<head></head>``` with the code below. 
 
 ```
 <head>
@@ -68,19 +67,17 @@ To complete this project: students should have the following:
 
 ```
 
-2. Use this recipe to fill out the content of your website:
-   - https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/
-   - This is your recipe for the week or you can find a recipe online of your choosing
-   - Create a ```<h1></h1>``` for your title
-   - Create a ```<p class="author">``` for your name
-
-3. Add an image into your webpage using the ```img``` tag
-   - Create a ```<h1></h1>``` for your title
-   - Create a ```<p class="author">``` for your name
+### Body 
+2. Use this [recipe](https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/) to fill out the content of your website:
+   - Create a ```<h1>INSERT TITLE</h1>``` for your title
+   - Create a ```<p class="author">INSERT NAME</p>``` for your name
    - Add  ``` <img src="https://drive.google.com/uc?export=view&id=13qYykjvPWZurnw2W1tMGjo9B-HbVT2G-" alt="girl on top of red velvet cookies" width ="200px">```
 
-4. Create the following sections inside the ```<body>``` tag to describe the recipe
 
+4. Create an *about* section
+  - Create a ```<section class="about"></section>``` for your about section   
+
+Example: 
 ```
 <section class="about">
 <!----"p1" can be changed into anything you like, you can even say "paragraph1"---->
@@ -99,7 +96,29 @@ To complete this project: students should have the following:
 * ```section``` with a ```class``` of "steps"
   * ```h2``` title of the section for steps
   * ```ol``` and ```li``` start creating the list of steps
+  * 
+5.  Create an *ingredients* section
+  - Create a ```<section class="ingredients"></section>``` for your about section
+  - Insert the following
 
+```
+<h2>Ingredients</h2>
+    <ul>
+      <li>1 and 1/2 cups + 1 Tablespoon (196g) all-purpose flour (spoon & leveled</li>
+      <li>1/4 cup (21g) unsweetened natural cocoa powder</li>
+      <li>1 teaspoon baking soda</li>
+      <li>1/4 teaspoon salt</li>
+      <li>1/2 cup (115g) unsalted butter, softened to room temperature</li>
+      <li>3/4 cup (150g) packed light or dark brown sugar</li>
+      <li>1/4 cup (50g) granulated sugar</li>
+      <li>1 large egg, at room temperature*</li>
+      <li>1 Tablespoon milk (I use buttermilk)</li>
+      <li>2 teaspoons pure vanilla extract</li>
+      <li>1/2 teaspoon gel red food coloring (or alternative)*</li>
+      <li>1 cup (180g) semi-sweet chocolate chips (plus a few extra for after baking </li>
+    
+    </ul>
+```
 5. Within this [first, second, third] section, create and img tag and set the src attribute to [link] and alt attribute to [description]
 
 * ```section``` with a ```class``` of "row"
