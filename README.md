@@ -71,6 +71,7 @@ This part should appear like this in your HTML file:
 
 2. Use this recipe to fill out the content of your website:
    - words
+- words2
   * https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/
   * This is your recipe for the week or you can find a recipe online of your choosing
   * Create a ```<h1>``` for your title
