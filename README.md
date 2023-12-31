@@ -168,11 +168,11 @@ Example:
   - Insert the image links below using the ```img``` tag and don't forget to include their alternatives
     - Example do not use on website: ```<img src="something.jpg" alt="something">```
     1. [red velvet chocolate chip cookies 5](https://sallysbakingaddiction.com/wp-content/uploads/2013/12/red-velvet-chocolate-chip-cookies-5.jpg)
-    2. [red velvet chocolate chip cookies 3](https://sallysbakingaddiction.com/wp-content/uploads/2013/12/red-velvet-chocolate-chip-cookies-3.jpg))
+    2. [red velvet chocolate chip cookies 3](https://sallysbakingaddiction.com/wp-content/uploads/2013/12/red-velvet-chocolate-chip-cookies-3.jpg)
     3. [red velvet chocolate chip cookies 4](https://sallysbakingaddiction.com/wp-content/uploads/2013/12/red-velvet-chocolate-chip-cookies-4.jpg)
    
 
-<br>Part II: Complete CSS
+## Part II: Complete CSS
 <br>
 Use the CSS properties above to design your website in the CSS file
 </br>
