@@ -70,7 +70,7 @@ To complete this project: students should have the following:
 2. Use this [recipe](https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/) to fill out the content of your website:
    - Create a ```<h1>INSERT TITLE</h1>``` for your title
    - Create a ```<p class="author">INSERT NAME</p>``` for your name
-   - Add  ``` <img src="https://drive.google.com/uc?export=view&id=13qYykjvPWZurnw2W1tMGjo9B-HbVT2G-" alt="girl on top of red velvet cookies" width ="200px">```
+   - Add  ```<img src="img/cookie_drawing.png" width="200px">```
 
 
 4. Create an *about* section
